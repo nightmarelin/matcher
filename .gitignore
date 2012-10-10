@@ -1,6 +1,16 @@
 *.class
 
 # Package Files #
+.project
 *.jar
 *.war
 *.ear
+*.DS_Store
+lib/*
+src.analyzer/*
+src.lucene/*
+src.zhconverter/*
+bin/*
+.classpath
+
+.settings/org.eclipse.core.resources.prefs
